@@ -16,4 +16,17 @@ footer {
     background-size: contain;
     color: white;
     font-size: 30px
+
+}
+
+#about {
+  text-align: center;
+}
+
+.main {
+  font-family: Mali;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  border: dotted;
 }
